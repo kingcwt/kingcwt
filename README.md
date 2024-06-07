@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 ### Hi there! 👋
 
 I'm a front-end developer who turns coffee into code and bugs into features. 🚀✨
