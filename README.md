@@ -1,5 +1,5 @@
 ### Hi there! 👋
-blog:[[https://note.kingcwt.top/blog  ](https://note.kingcwt.top/)](https://note.kingcwt.top/)
+blog:https://note.kingcwt.top/  
 I'm a front-end developer who turns coffee into code and bugs into features. 🚀✨    
 
 🔭 I’m currently working on making the web a better place, one pixel at a time.   
